@@ -1,0 +1,13 @@
+Type,Label,Distance_kb,Value
+Selection,spaL,19.6,1.42
+Selection,mntP,41.8,1.35
+Selection,yheS,391.8,0.95
+Selection,aaeA,554.2,0.88
+Selection,atpD,4902.3,0.04
+IS_Count,BHKY,0,615
+IS_Count,BuffGH,0,601
+IS_Count,MDCuke,0,543
+IS_Count,SCR3,0,534
+IS_Count,ICMP,0,529
+IS_Count,PSU-1,0,176
+IS_Count,EaSmR,0,8

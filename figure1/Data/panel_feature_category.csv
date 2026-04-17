@@ -1,0 +1,67 @@
+Panel,Feature,Category_Subtype,Value,Unit
+A,Translation,Core,15.0,Percentage
+A,Translation,Accessory,2.0,Percentage
+A,Replication,Core,12.0,Percentage
+A,Replication,Accessory,4.0,Percentage
+A,Cell Wall,Core,10.0,Percentage
+A,Cell Wall,Accessory,15.0,Percentage
+A,Inorganic Ion,Core,8.0,Percentage
+A,Inorganic Ion,Accessory,12.0,Percentage
+A,Defense,Core,4.0,Percentage
+A,Defense,Accessory,18.0,Percentage
+A,Signal Trans,Core,6.0,Percentage
+A,Signal Trans,Accessory,14.0,Percentage
+A,Transcription,Core,11.0,Percentage
+A,Transcription,Accessory,9.0,Percentage
+B,T3SS,BHKY,1,Binary
+B,T3SS,BuffGH,1,Binary
+B,T3SS,PSU-1,1,Binary
+B,T3SS,MDCuke,0,Binary
+B,T3SS,SCR3,1,Binary
+B,T3SS,ICMP,1,Binary
+B,T3SS,EaSmR,0,Binary
+B,T4SS,BHKY,1,Binary
+B,T4SS,BuffGH,1,Binary
+B,T4SS,PSU-1,1,Binary
+B,T4SS,MDCuke,0,Binary
+B,T4SS,SCR3,1,Binary
+B,T4SS,ICMP,1,Binary
+B,T4SS,EaSmR,0,Binary
+B,Siderophore,BHKY,1,Binary
+B,Siderophore,BuffGH,1,Binary
+B,Siderophore,PSU-1,0,Binary
+B,Siderophore,MDCuke,1,Binary
+B,Siderophore,SCR3,1,Binary
+B,Siderophore,ICMP,0,Binary
+B,Siderophore,EaSmR,1,Binary
+B,Adhesin A,BHKY,1,Binary
+B,Adhesin A,BuffGH,0,Binary
+B,Adhesin A,PSU-1,1,Binary
+B,Adhesin A,MDCuke,1,Binary
+B,Adhesin A,SCR3,1,Binary
+B,Adhesin A,ICMP,0,Binary
+B,Adhesin A,EaSmR,1,Binary
+B,Adhesin B,BHKY,1,Binary
+B,Adhesin B,BuffGH,1,Binary
+B,Adhesin B,PSU-1,1,Binary
+B,Adhesin B,MDCuke,1,Binary
+B,Adhesin B,SCR3,0,Binary
+B,Adhesin B,ICMP,1,Binary
+B,Adhesin B,EaSmR,1,Binary
+B,Exotoxin,BHKY,1,Binary
+B,Exotoxin,BuffGH,1,Binary
+B,Exotoxin,PSU-1,1,Binary
+B,Exotoxin,MDCuke,0,Binary
+B,Exotoxin,SCR3,1,Binary
+B,Exotoxin,ICMP,1,Binary
+B,Exotoxin,EaSmR,1,Binary
+C,NRPS,Conserved,4,Count
+C,NRPS,Strain-Specific,2,Count
+C,PKS,Conserved,2,Count
+C,PKS,Strain-Specific,1,Count
+C,Terpene,Conserved,5,Count
+C,Terpene,Strain-Specific,3,Count
+C,Bacteriocin,Conserved,3,Count
+C,Bacteriocin,Strain-Specific,4,Count
+C,Siderophore,Conserved,2,Count
+C,Siderophore,Strain-Specific,1,Count

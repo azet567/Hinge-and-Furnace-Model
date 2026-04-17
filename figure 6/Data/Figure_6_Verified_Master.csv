@@ -1,0 +1,9 @@
+Type,Label,Distance_kb,Omega,Region
+Skyline,aat_efflux,1.5,42.45,Furnace
+Skyline,arg_nitrogen,5.2,25.76,Furnace
+Selection,spaL,19.6,1.42,Hinge
+Selection,mntP,41.8,1.35,Hinge
+Selection,yheS,391.8,0.95,Transition
+Selection,aaeA,554.2,0.88,Transition
+Selection,atpD,4902.3,0.04,Core
+Baseline,metabolic_core,50.0,0.04,Core

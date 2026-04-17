@@ -1,0 +1,115 @@
+Pathogen,Contig,Gene,Start,End,Type
+A_baumannii_AB5075,CP008706.1,purC,63622,64341,gene
+A_baumannii_AB5075,CP008706.1,purC,63622,64341,CDS
+A_baumannii_AB5075,CP008706.1,unknown,561791,562970,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,beta-lactamase OXA-23,562998,563819,CDS
+A_baumannii_AB5075,CP008706.1,unknown,674632,675811,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,unknown,1396455,1397746,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,unknown,1764088,1765126,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,bla-OXA-69,2286658,2287482,gene
+A_baumannii_AB5075,CP008706.1,bla-OXA-69,2286658,2287482,CDS
+A_baumannii_AB5075,CP008706.1,unknown,2530310,2531489,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,vanA,2766768,2767844,gene
+A_baumannii_AB5075,CP008706.1,vanA,2766768,2767844,CDS
+A_baumannii_AB5075,CP008706.1,unknown,3721551,3722858,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,unknown,3860647,3861938,mobile_genetic_element
+A_baumannii_AB5075,CP008706.1,unknown,3862536,3863574,mobile_genetic_element
+A_baumannii_AB5075,CP008707.1,unknown,25727,26165,mobile_genetic_element
+A_baumannii_AB5075,CP008707.1,unknown,38794,39232,mobile_genetic_element
+A_baumannii_AB5075,CP008707.1,unknown,52327,53413,mobile_genetic_element
+A_baumannii_AB5075,CP008707.1,unknown,54312,55398,mobile_genetic_element
+A_baumannii_AB5075,NZ_CP008706.1,purC,63622,64341,gene
+A_baumannii_AB5075,NZ_CP008706.1,purC,63622,64341,CDS
+A_baumannii_AB5075,NZ_CP008706.1,aciT,110613,110948,CDS
+A_baumannii_AB5075,NZ_CP008706.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-23,562998,563819,CDS
+A_baumannii_AB5075,NZ_CP008706.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-69,2286658,2287482,CDS
+E_coli_ST131,HG941718.1,unknown,233728,236259,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,1365601,1366443,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,1372288,1373517,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,1417477,1418621,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,1480032,1482480,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,1647529,1648819,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2103783,2104446,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2142424,2143132,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2244067,2245788,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2248881,2250339,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2265834,2268365,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2271109,2273665,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2284843,2285551,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,2384715,2385482,mobile_genetic_element
+E_coli_ST131,HG941718.1,purC,2776558,2777280,gene
+E_coli_ST131,HG941718.1,purC,2776558,2777280,CDS
+E_coli_ST131,HG941718.1,unknown,3111920,3114403,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3288120,3288887,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3290147,3290914,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3293137,3294446,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3312817,3313143,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3313144,3314364,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3323690,3325020,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3334554,3336544,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3336529,3338118,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3558366,3559615,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,3820314,3821771,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4140078,4140846,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4156067,4156581,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4158852,4159646,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4171129,4173827,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4922925,4923251,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4925089,4927620,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4937433,4938940,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4938941,4940135,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4942386,4943650,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4943651,4944441,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4953116,4953883,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4956001,4958289,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4971901,4974384,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,4976679,4977300,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,5007345,5008594,mobile_genetic_element
+E_coli_ST131,HG941718.1,unknown,5014814,5016698,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,36289,37108,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,37109,38748,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,43435,44254,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,66902,67669,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,75317,76136,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,86144,86963,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,93933,94812,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,98045,98864,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,102450,103269,mobile_genetic_element
+E_coli_ST131,HG941719.1,blaOXA-1,103849,104679,gene
+E_coli_ST131,HG941719.1,blaOXA-1,103849,104679,CDS
+E_coli_ST131,HG941719.1,unknown,105456,106275,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,120368,121135,mobile_genetic_element
+E_coli_ST131,HG941719.1,unknown,131259,133790,mobile_genetic_element
+E_coli_ST131,NZ_HG941718.1,purC,2776558,2777271,gene
+E_coli_ST131,NZ_HG941718.1,purC,2776558,2777271,CDS
+E_coli_ST131,NZ_HG941719.1,oxacillin-hydrolyzing class D beta-lactamase OXA-1,103849,104679,CDS
+E_faecium_Aus0004,NC_017022.2,purC,1131666,1132394,gene
+E_faecium_Aus0004,NC_017022.2,purC,1131666,1132394,CDS
+K_pneumoniae_NJST258_1,NZ_CP006923.1,purC,1459063,1459776,gene
+K_pneumoniae_NJST258_1,NZ_CP006923.1,purC,1459063,1459776,CDS
+K_pneumoniae_NJST258_1,NZ_CP006926.1,carbapenem-hydrolyzing class A beta-lactamase KPC-3,37750,38631,CDS
+K_pneumoniae_NJST258_1,NZ_CP006926.1,oxacillin-hydrolyzing class D beta-lactamase OXA-9,49090,49914,CDS
+K_pneumoniae_NJST258_1,NZ_CP006924.1,oxacillin-hydrolyzing class D beta-lactamase OXA-9,2517,3341,CDS
+K_pneumoniae_NJST258_Ref,NZ_CP006923.1,purC,1459063,1459776,gene
+K_pneumoniae_NJST258_Ref,NZ_CP006923.1,purC,1459063,1459776,CDS
+K_pneumoniae_NJST258_Ref,NZ_CP006926.1,carbapenem-hydrolyzing class A beta-lactamase KPC-3,37750,38631,CDS
+K_pneumoniae_NJST258_Ref,NZ_CP006926.1,oxacillin-hydrolyzing class D beta-lactamase OXA-9,49090,49914,CDS
+K_pneumoniae_NJST258_Ref,NZ_CP006924.1,oxacillin-hydrolyzing class D beta-lactamase OXA-9,2517,3341,CDS
+P_aeruginosa_PA14,CP000438.1,purC,4553158,4553868,gene
+P_aeruginosa_PA14,CP000438.1,purC,4553158,4553868,CDS
+P_aeruginosa_PA14,CP000438.1,vanA,5774457,5775512,gene
+P_aeruginosa_PA14,CP000438.1,vanA,5774457,5775512,CDS
+P_aeruginosa_PA14,NC_008463.1,purC,4553158,4553868,gene
+P_aeruginosa_PA14,NC_008463.1,purC,4553158,4553868,CDS
+P_aeruginosa_PA14,NC_008463.1,poxA,6479530,6480408,CDS
+P_aeruginosa_PA14,NC_008463.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-488,6480480,6481268,CDS
+S_aureus_USA300,CP000255.1,mecA,39127,41133,gene
+S_aureus_USA300,CP000255.1,mecA,39127,41133,CDS
+S_aureus_USA300,CP000255.1,purC,1061044,1061748,gene
+S_aureus_USA300,CP000255.1,purC,1061044,1061748,CDS
+S_aureus_USA300,NC_007793.1,mecA,39127,41136,gene
+S_aureus_USA300,NC_007793.1,mecA,39127,41136,CDS
+S_aureus_USA300,NC_007793.1,mecA,987736,988455,gene
+S_aureus_USA300,NC_007793.1,mecA,987736,988455,CDS
+S_aureus_USA300,NC_007793.1,purC,1061044,1061748,gene
+S_aureus_USA300,NC_007793.1,purC,1061044,1061748,CDS

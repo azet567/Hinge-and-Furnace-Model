@@ -1,0 +1,7 @@
+COG_Category,Enrichment_Score,Significance
+[L] DNA Repair,42.5,p<0.001
+[V] Defense,31.0,p<0.01
+[J] Translation,18.4,NS
+[M] Cell Wall,15.2,p<0.05
+[K] Transcription,12.8,NS
+[P] Transport,9.5,NS

@@ -1,0 +1,7 @@
+GO_ID,Term,Neg_Log10_P,Frequency
+GO:0009297,Pilus retraction,4.52,25
+GO:0140297,DNA-binding transcription,3.81,18
+GO:0006270,DNA Replication,3.2,15
+GO:0006915,Defense Response,2.15,12
+GO:0044464,Cell Surface,1.8,20
+GO:0003677,DNA Binding,3.95,30
