@@ -1,0 +1,4 @@
+Replicon 1 Median Omega: 2.919713744588744
+Replicon 2 Median Omega: 2.967534722222222
+Observed Difference: 0.047820977633477924
+Permutation P-value: 0.0
